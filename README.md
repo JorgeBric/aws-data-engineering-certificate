@@ -68,7 +68,7 @@ This repository is updated as I go through my preparation. Contributions, feedba
 
 ---
 
-## 🧠 Author
+## 😎 Author
 
 Jorge Briceño
 
